@@ -8,6 +8,12 @@
       content="Spider Solitaire Game"
     />
     <title>Spider Solitaire App</title>
+	<script>
+		// before React is loaded
+		if (typeof window.__REACT_DEVTOOLS_GLOBAL_HOOK__ === 'object') {
+			__REACT_DEVTOOLS_GLOBAL_HOOK__.inject = function() {};
+		}
+	</script>
   </head>
   <body>
     <div id="root"></div>
