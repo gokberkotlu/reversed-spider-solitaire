@@ -2,7 +2,7 @@
 
 Spider Solitaire game built in React.
 
-# [Live Demo](https://react-spider-solitaire-myrepo.herokuapp.com/)
+# [Live Demo](https://spider-solitaire-react-gokberk.herokuapp.com/)
 
 # One Suit Spider Solitaire
 
