@@ -37,7 +37,8 @@
     ]
   },
   "engines": {
-    "node": "14.17.2"
+    "node": "14.17.2",
+	"npm": ">=7.19.1"
   },
   "devDependencies": {
     "jest": "^26.6.0",
