@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from 'react';
+import React, { useContext, useEffect } from 'react';
 import { DeckContext } from "../../context/DeckContext";
 import { DashboardContext } from "../../context/DashboardContext";
 import "./navbar.css";
