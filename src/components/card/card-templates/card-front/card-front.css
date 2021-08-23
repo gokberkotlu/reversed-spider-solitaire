@@ -1,0 +1,16 @@
+.card-front {
+    background-color: #FFF;
+}
+
+.spade-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* Calculate font-size of spare logo */
+    font-size: 4.9vw;
+}
+
+.reversed-icon {
+    transform: rotate(180deg);
+}

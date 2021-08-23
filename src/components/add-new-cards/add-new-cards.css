@@ -1,0 +1,15 @@
+/* Root values come from index.css */
+.add-new-cards {
+    width: var(--card-width);
+    height: var(--card-height);
+    display: inline-block;
+    margin-right: -4.5vw;
+}
+
+.add-new-cards:last-child {
+    margin-right: 0;
+}
+
+.add-new-cards:last-child {
+    cursor: pointer;
+}

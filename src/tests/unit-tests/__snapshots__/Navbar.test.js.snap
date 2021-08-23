@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar component should render Navbar component 1`] = `
+<nav>
+  <div
+    className="navbar-container"
+  >
+    <div
+      className="score-timer-container"
+    >
+      <div
+        className="timer-container"
+      >
+        <img
+          alt="Timer"
+          className="navbar-icon"
+          height={20}
+          src="Timer.svg"
+          width={20}
+        />
+        <span>
+          00:00:00
+        </span>
+      </div>
+      <div
+        className="score-container"
+      >
+        <img
+          alt="Score"
+          className="navbar-icon"
+          height={20}
+          src="Score.svg"
+          width={20}
+        />
+        <span>
+          500
+        </span>
+      </div>
+    </div>
+    <span>
+      High Score: 
+      0
+    </span>
+    <div
+      className="undo-new-container"
+    >
+      <div
+        className="undo-container"
+      >
+        <div
+          className="navbar-btn"
+          onClick={[Function]}
+        >
+          <img
+            alt="Undo"
+            className="navbar-icon"
+            height={20}
+            src="Undo.svg"
+            width={20}
+          />
+          <span>
+            Undo
+          </span>
+        </div>
+      </div>
+      <div
+        className="new-container"
+      >
+        <div
+          className="navbar-btn"
+          onClick={[Function]}
+        >
+          <img
+            alt="New Game"
+            className="navbar-icon"
+            height={20}
+            src="NewGame.svg"
+            width={20}
+          />
+          <span>
+            New
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+`;

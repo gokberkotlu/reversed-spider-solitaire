@@ -1,0 +1,27 @@
+:root {
+    --completed-series-bg-img: linear-gradient(to bottom left, #5E6066, #DDD);
+    --completed-series-shadow: -.2vw -.1vw .3vw .1vw #060508;
+}
+
+.completed-decks {
+    width: var(--card-width);
+    height: var(--card-height);
+    display: inline-block;
+    box-sizing: border-box;
+    margin-bottom: 1vw;
+}
+
+.completed-decks:last-child {
+    margin-left: 0;
+}
+
+.completed-decks-container {
+    display: flex;
+    gap: var(--card-holder-unit-mr);
+    width: auto;
+}
+
+.completed-decks-container .empty-card-box {
+    background-image: var(--completed-series-bg-img);
+    box-shadow: var(--completed-series-shadow);
+}

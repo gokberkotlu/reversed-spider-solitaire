@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Add new card packs should render AddNewCard component 1`] = `
+<div
+  className="add-new-cards-container"
+>
+  <div
+    className="add-new-cards"
+  >
+    <div
+      className="card-template card-spade card-back"
+    />
+  </div>
+  <div
+    className="add-new-cards"
+  >
+    <div
+      className="card-template card-spade card-back"
+    />
+  </div>
+  <div
+    className="add-new-cards"
+  >
+    <div
+      className="card-template card-spade card-back"
+    />
+  </div>
+  <div
+    className="add-new-cards"
+  >
+    <div
+      className="card-template card-spade card-back"
+    />
+  </div>
+  <div
+    className="add-new-cards"
+    onClick={[Function]}
+  >
+    <div
+      className="card-template card-spade card-back"
+    />
+  </div>
+</div>
+`;

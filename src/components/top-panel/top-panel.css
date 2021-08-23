@@ -1,0 +1,7 @@
+.top-panel {
+    display: flex;
+    justify-content: space-between;
+    width: calc(var(--card-width) * 10 + 9 * var(--card-holder-unit-mr));
+    margin: 0 auto;
+    padding: 0;
+}

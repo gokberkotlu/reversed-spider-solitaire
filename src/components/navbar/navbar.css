@@ -1,0 +1,68 @@
+:root {
+    /* navbar-container */
+    --navbar-container-height: 9vh;
+    --navbar-container-min-height: 2.1vw;
+    --navbar-container-max-height: 8vw;
+    --navbar-container-padding: 0 2vw;
+    --navbar-container-mb: 1.7vw;
+    --navbar-container-color: #FFF;
+    --navbar-container-bg: #24282F;
+}
+
+/* Navbar Styling */
+.navbar-container {
+    display: flex;
+    width: 100%;
+    height: var(--navbar-container-height);
+    min-height: var(--navbar-container-min-height);
+    max-height: var(--navbar-container-max-height);
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: var(--navbar-container-padding);
+    margin-bottom: var(--navbar-container-mb);
+    color: var(--navbar-container-color);
+    background-color: var(--navbar-container-bg);
+    font-size: 2.1vw;
+}
+
+/* navbar font-size */
+@media only screen and (min-width: 1000px) {
+    .navbar-container {
+      font-size: 1.3em;
+    }
+}
+
+/* score-timer-container | undo-new-container */
+.score-timer-container, .undo-new-container {
+    display: flex;
+    gap: 1.5vw;
+    height: inherit;
+}
+
+/* timer-container | score-container */
+.timer-container, .score-container {
+    display: flex;
+    align-items: center;
+    gap: .3vw;
+}
+
+/* Navbar button styles */
+.navbar-btn {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .3vw;
+    cursor: pointer;
+    transition: transform .2s;
+}
+
+.navbar-btn:hover {
+    transform: scale(1.1);
+}
+
+.navbar-icon {
+    width: 1.7vw;
+    height: 1.7vw;
+}

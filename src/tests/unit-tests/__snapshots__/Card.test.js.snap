@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card component should render Card component 1`] = `
+<div
+  className="card"
+  draggable={true}
+  id="undefined-spare-undefined-deck-undefined"
+  onDrag={[Function]}
+  onDragEnd={[Function]}
+  onDragStart={[Function]}
+>
+  <div
+    className="card-template card-spade card-front"
+  >
+    <div>
+      <div
+        className="card-rank"
+      />
+      <div
+        className="spade-icon"
+      >
+        ♠
+      </div>
+    </div>
+    <div
+      className="spade-center"
+    >
+      ♠
+    </div>
+    <div>
+      <div
+        className="spade-icon reversed-icon"
+      >
+        ♠
+      </div>
+      <div
+        className="card-rank reversed-icon"
+      />
+    </div>
+  </div>
+</div>
+`;

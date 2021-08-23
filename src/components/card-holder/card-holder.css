@@ -1,0 +1,9 @@
+.card-holder-unit {
+    width: var(--card-width);
+    display: inline-block;
+    margin-right: var(--card-holder-unit-mr);
+}
+
+.card-holder-unit:last-child {
+    margin-right: 0;
+}

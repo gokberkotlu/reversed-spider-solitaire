@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardHolder component should render CardHolder component 1`] = `
+<div
+  className="card-holder-unit"
+  onDragOver={[Function]}
+  onDrop={[Function]}
+>
+  <div
+    className="empty-card-box"
+  />
+  <div
+    className="card"
+    draggable={true}
+    id="A-spare-1-deck-1"
+    onDrag={[Function]}
+    onDragEnd={[Function]}
+    onDragStart={[Function]}
+  >
+    <div
+      className="card-template card-spade card-back"
+    />
+  </div>
+  <div
+    className="card"
+    draggable={true}
+    id="2-spare-1-deck-1"
+    onDrag={[Function]}
+    onDragEnd={[Function]}
+    onDragStart={[Function]}
+  >
+    <div
+      className="card-template card-spade card-back"
+    />
+  </div>
+  <div
+    className="card"
+    draggable={true}
+    id="3-spare-1-deck-1"
+    onDrag={[Function]}
+    onDragEnd={[Function]}
+    onDragStart={[Function]}
+  >
+    <div
+      className="card-template card-spade card-front"
+    >
+      <div>
+        <div
+          className="card-rank"
+        >
+          3
+        </div>
+        <div
+          className="spade-icon"
+        >
+          ♠
+        </div>
+      </div>
+      <div
+        className="spade-center"
+      >
+        ♠
+      </div>
+      <div>
+        <div
+          className="spade-icon reversed-icon"
+        >
+          ♠
+        </div>
+        <div
+          className="card-rank reversed-icon"
+        >
+          3
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="card"
+    draggable={true}
+    id="4-spare-1-deck-1"
+    onDrag={[Function]}
+    onDragEnd={[Function]}
+    onDragStart={[Function]}
+  >
+    <div
+      className="card-template card-spade card-front"
+    >
+      <div>
+        <div
+          className="card-rank"
+        >
+          4
+        </div>
+        <div
+          className="spade-icon"
+        >
+          ♠
+        </div>
+      </div>
+      <div
+        className="spade-center"
+      >
+        ♠
+      </div>
+      <div>
+        <div
+          className="spade-icon reversed-icon"
+        >
+          ♠
+        </div>
+        <div
+          className="card-rank reversed-icon"
+        >
+          4
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

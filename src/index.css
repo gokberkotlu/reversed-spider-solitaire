@@ -1,0 +1,22 @@
+:root {
+    --card-width: 5.2vw;
+    --card-height: 7.8vw;
+    --card-margin-bottom: -6.4vw;
+    --card-border-radius: .4vw;
+    --card-holder-unit-mr: 1.5vw;
+}
+
+body {
+    background-color: seagreen;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Times New Roman", Times, serif;
+    overflow-x: hidden;
+
+    user-select: none; /* supported by Chrome and Opera */
+   -webkit-user-select: none; /* Safari */
+   -khtml-user-select: none; /* Konqueror HTML */
+   -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+}

@@ -1,0 +1,9 @@
+.empty-card-box {
+    position: absolute;
+    width: var(--card-width);
+    height: var(--card-height);
+    box-sizing: border-box;
+    border: .1vw solid #FFF;
+    border-radius: var(--card-border-radius);
+    z-index: -1;
+}

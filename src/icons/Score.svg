@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="62mm"
+   height="88mm"
+   viewBox="0 0 62 88"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Cup.svg">
+  <title
+     id="title114">cup</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="293.7416"
+     inkscape:cy="276.01575"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>cup</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-209)">
+    <g
+       id="g110"
+       transform="matrix(1.3235913,0,0,1.3235913,-95.890904,64.005964)">
+      <g
+         id="g103">
+        <rect
+           style="fill:#ffcc00;fill-opacity:1;stroke-width:0.16030645"
+           id="rect86"
+           width="6.4144688"
+           height="9.8889723"
+           x="92.420837"
+           y="152.01704" />
+        <path
+           style="fill:#ffcc00;fill-opacity:1;stroke-width:0.28890377"
+           id="path12"
+           sodipodi:type="arc"
+           sodipodi:cx="95.627991"
+           sodipodi:cy="115.15594"
+           sodipodi:rx="22.261467"
+           sodipodi:ry="37.967144"
+           sodipodi:start="0"
+           sodipodi:end="3.1377885"
+           d="M 117.88946,115.15594 A 22.261467,37.967144 0 0 1 95.670334,153.12301 22.261467,37.967144 0 0 1 73.366685,115.30037 l 22.261306,-0.14443 z" />
+        <ellipse
+           style="fill:#ffdd55;fill-opacity:1;stroke-width:0.26458332"
+           id="path10"
+           cx="95.628075"
+           cy="115.57143"
+           rx="22.300594"
+           ry="5.2916665" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path96"
+         d="m 79.822814,169.55515 c 0,-0.13151 0.104383,-1.00851 0.231953,-1.94888 0.258228,-1.90343 0.83031,-3.62329 1.548641,-4.6557 1.034964,-1.48748 0.745473,-1.45967 14.37379,-1.38072 l 12.548032,0.0727 0.65102,0.6952 c 1.21827,1.30095 2.02492,3.60146 2.18289,6.2254 l 0.0742,1.23112 H 95.628045 c -9.217986,0 -15.805231,-0.0997 -15.805231,-0.23912 z"
+         style="fill:#ffcc00;fill-opacity:1;stroke-width:0.17713103" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TopPanel component should render TopPanel component 1`] = `
+<div
+  className="top-panel"
+>
+  <div
+    className="add-new-cards-container"
+  >
+    <div
+      className="add-new-cards"
+    >
+      <div
+        className="card-template card-spade card-back"
+      />
+    </div>
+    <div
+      className="add-new-cards"
+    >
+      <div
+        className="card-template card-spade card-back"
+      />
+    </div>
+    <div
+      className="add-new-cards"
+    >
+      <div
+        className="card-template card-spade card-back"
+      />
+    </div>
+    <div
+      className="add-new-cards"
+    >
+      <div
+        className="card-template card-spade card-back"
+      />
+    </div>
+    <div
+      className="add-new-cards"
+      onClick={[Function]}
+    >
+      <div
+        className="card-template card-spade card-back"
+      />
+    </div>
+  </div>
+  <div
+    className="completed-decks-container"
+  >
+    <div
+      className="completed-decks"
+    >
+      <div
+        className="empty-card-box"
+      />
+    </div>
+    <div
+      className="completed-decks"
+    >
+      <div
+        className="empty-card-box"
+      />
+    </div>
+    <div
+      className="completed-decks"
+    >
+      <div
+        className="empty-card-box"
+      />
+    </div>
+    <div
+      className="completed-decks"
+    >
+      <div
+        className="empty-card-box"
+      />
+    </div>
+    <div
+      className="completed-decks"
+    >
+      <div
+        className="empty-card-box"
+      />
+    </div>
+    <div
+      className="completed-decks"
+    >
+      <div
+        className="empty-card-box"
+      />
+    </div>
+    <div
+      className="completed-decks"
+    >
+      <div
+        className="empty-card-box"
+      />
+    </div>
+    <div
+      className="completed-decks"
+    >
+      <div
+        className="empty-card-box"
+      />
+    </div>
+  </div>
+</div>
+`;

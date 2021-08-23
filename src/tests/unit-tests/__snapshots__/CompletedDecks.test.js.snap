@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CompletedDecks should render CompletedDecks component 1`] = `
+<div
+  className="completed-decks-container"
+>
+  <div
+    className="completed-decks"
+  >
+    <div
+      className="empty-card-box"
+    />
+  </div>
+  <div
+    className="completed-decks"
+  >
+    <div
+      className="empty-card-box"
+    />
+  </div>
+  <div
+    className="completed-decks"
+  >
+    <div
+      className="empty-card-box"
+    />
+  </div>
+  <div
+    className="completed-decks"
+  >
+    <div
+      className="empty-card-box"
+    />
+  </div>
+  <div
+    className="completed-decks"
+  >
+    <div
+      className="empty-card-box"
+    />
+  </div>
+  <div
+    className="completed-decks"
+  >
+    <div
+      className="empty-card-box"
+    />
+  </div>
+  <div
+    className="completed-decks"
+  >
+    <div
+      className="empty-card-box"
+    />
+  </div>
+  <div
+    className="completed-decks"
+  >
+    <div
+      className="empty-card-box"
+    />
+  </div>
+</div>
+`;

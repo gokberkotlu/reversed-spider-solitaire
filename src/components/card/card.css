@@ -1,0 +1,8 @@
+/* Root values come from index.css */
+.card {
+    width: var(--card-width);
+    height: var(--card-height);
+    margin-bottom: var(--card-margin-bottom);
+    margin-left: auto;
+    margin-right: auto;
+}
